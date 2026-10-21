@@ -1,0 +1,19 @@
+# Arduino / PlatformIO build output
+build/
+.pio/
+*.hex
+*.elf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Keep your real WiFi passwords out of the repo
+secrets.h
